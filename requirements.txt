@@ -1,0 +1,9 @@
+flask 
+numpy
+opencv-python
+autocorrect
+editdistance
+tensorflow==2.9.1
+pyenchant
+pyspellchecker
+textblob
